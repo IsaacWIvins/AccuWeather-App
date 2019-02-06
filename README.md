@@ -6,7 +6,7 @@ https://expo.io/@isaacwivins/weather-app
 AccuWeather-App is hybrid mobile application that uses the Googles Places API and AccuWeather's API to generate current weather conditions and a 5 day forecast. This repo is used as a display of sample code, and a directory of features and technologies.
 
 ## Demo Gifs
-![Alt Text](https://media.giphy.com/media/4JWiPq3rJL91Lu0CJT/giphy.gif)
+![Alt Text](https://media.giphy.com/media/4JWiPq3rJL91Lu0CJT/giphy.gif) ![Alt Text](https://media.giphy.com/media/1kJwYqzfhZo3ExauVm/giphy.gif)
 
 ## How does it work?
 
