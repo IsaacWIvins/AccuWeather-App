@@ -7,7 +7,7 @@ AccuWeather-App is hybrid mobile application that uses the Googles Places API an
 
 ## Demo Gifs
 
-![Alt Text](https://media.giphy.com/media/Mnl4vErWWNN2yNmwq2/giphy.gif) ![Alt Text](https://media.giphy.com/media/1oHqbnpoFjwCiiysdw/giphy.gif)
+![Alt Text](https://media.giphy.com/media/Mnl4vErWWNN2yNmwq2/giphy.gif) ![Alt Text](https://media.giphy.com/media/jnTkibPUYgX1gWiJxW/giphy.gif)
 
 ## How does it work?
 
